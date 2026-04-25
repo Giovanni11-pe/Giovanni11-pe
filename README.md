@@ -39,12 +39,19 @@
 <h3 align="center">Sistema de Objetos Perdidos</h3>
 <div align="center">
 
-<!-- 🔥 SIMULACIÓN DE CARRUSEL -->
-<img src="img/obj1.png" width="250">
-<img src="img/obj2.png" width="250">
-<img src="img/obj3.png" width="250">
+<!-- 🔥 DISEÑO PIRÁMIDE -->
+<img src="img/obj1.png" width="400">
 
 <br><br>
+
+<table>
+<tr>
+<td><img src="img/obj2.png" width="180"></td>
+<td><img src="img/obj3.png" width="180"></td>
+</tr>
+</table>
+
+<br>
 
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
