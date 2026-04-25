@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="#">Giovanni Honorio</a> 👋</h1>
 </div>
 
-<img src="https://i.imgur.com/Wskj8cn.jpeg">
+<img src="banner.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/Giovanni11-pe?style=social)](https://github.com/Giovanni11-pe)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Giovanni11-pe?style=social)](https://github.com/Giovanni11-pe)
