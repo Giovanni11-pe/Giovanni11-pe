@@ -2,7 +2,9 @@
 <h1 align="center">Hola, soy <a href="#">Giovanni Honorio</a> 👋</h1>
 </div>
 
-<img src="banner.png">
+<div align="center">
+<img src="banner.png" width="800">
+</div>
 
 [![GitHub followers](https://img.shields.io/github/followers/Giovanni11-pe?style=social)](https://github.com/Giovanni11-pe)
 [![GitHub Repo stars](https://img.shields.io/github/stars/Giovanni11-pe?style=social)](https://github.com/Giovanni11-pe)
@@ -22,7 +24,7 @@
 ## 🧰 Tecnologías
 
 - ⚙️ Backend: PHP, Python, Java  
-- 🎨 Frontend: HTML, CSS, JavaScript  
+- 🎨 Frontend: HTML, CSS, JavaScript, Bootstrap  
 - 🗄️ Base de Datos: MySQL  
 - 🛠️ Herramientas: Git, GitHub, Figma, XAMPP, VS Code  
 
@@ -32,35 +34,61 @@
 
 <table>
 <tr>
+
 <td width="50%">
-<h3 align="center">Sistema de Inventario</h3>
+<h3 align="center">Sistema de Objetos Perdidos</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/Jji0CIE.jpg" width="400">
-</a>
-<p>
+
+<!-- 🔥 SIMULACIÓN DE CARRUSEL -->
+<img src="img/obj1.png" width="250">
+<img src="img/obj2.png" width="250">
+<img src="img/obj3.png" width="250">
+
+<br><br>
+
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
+
+<p align="left">
+
+Sistema web desarrollado para la gestión de objetos perdidos.
+
+🔹 Funciones principales:<br>
+✔ Registro de objetos perdidos<br>
+✔ Búsqueda por nombre o categoría<br>
+✔ CRUD completo (crear, editar, eliminar)<br>
+✔ Interfaz responsive con Bootstrap<br>
+✔ Conexión a base de datos<br>
+
+<br>
+
+🛠️ Tecnologías:<br>
+PHP | HTML | Bootstrap | JavaScript | MySQL
+
 </p>
-<p>Sistema web desarrollado en <strong>PHP y MySQL</strong> con funcionalidades CRUD para control de stock y gestión de productos.</p>
+
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Sistema de Vuelos</h3>
+<h3 align="center">Sistema de Inventario</h3>
 <div align="center">
+
+<img src="img/inv1.png" width="250">
+<img src="img/inv2.png" width="250">
+
+<br><br>
+
 <a href="#" target="_blank">
-<img src="https://i.imgur.com/7uCBigG.jpg" width="400">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Plataforma web para registro de solicitudes de vuelos, conectada a base de datos en tiempo real.</p>
+
+<p>Sistema web con <strong>PHP y MySQL</strong> para control de stock y gestión de productos.</p>
+
 </div>
 </td>
+
 </tr>
 </table>
 
@@ -68,35 +96,43 @@
 
 <table>
 <tr>
+
 <td width="50%">
-<h3 align="center">Web Corporativa</h3>
+<h3 align="center">Sistema de Vuelos</h3>
 <div align="center">
+
+<img src="img/vuelo1.png" width="250">
+<img src="img/vuelo2.png" width="250">
+
+<br><br>
+
 <a href="#" target="_blank">
-<img src="https://i.imgur.com/V48W0sU.jpg" width="400">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Diseño y desarrollo de página web usando <strong>HTML, CSS y PHP</strong>, adaptable a distintos dispositivos.</p>
+
+<p>Plataforma web para registro de solicitudes conectada a base de datos en tiempo real.</p>
+
 </div>
 </td>
 
 <td width="50%">
-<h3 align="center">Gestión Web RC Automotriz</h3>
+<h3 align="center">Web Corporativa</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/nDDp1Ra.jpg" width="400">
-</a>
-<p>
+
+<img src="img/web1.png" width="250">
+<img src="img/web2.png" width="250">
+
+<br><br>
+
 <a href="#" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-</p>
-<p>Desarrollo y administración de página web, contenido digital y presencia online del negocio.</p>
+
+<p>Diseño y desarrollo web con <strong>HTML, CSS y PHP</strong>.</p>
+
 </div>
 </td>
+
 </tr>
 </table>
 
