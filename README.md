@@ -1,5 +1,7 @@
 <div align="center">
-
+<div align="center">
+<img src="banner.png" width="800">
+</div>
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:0d1117&height=200&section=header&text=Giovanni%20Honorio&fontSize=52&fontColor=00e5a0&fontAlignY=40&desc=Software%20Developer%20·%20Web%20%26%20Backend&descAlignY=62&descColor=8b949e&animation=fadeIn"/>
 
