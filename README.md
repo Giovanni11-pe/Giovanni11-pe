@@ -13,11 +13,11 @@
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador de Software
-- 🌐 Enfocado en desarrollo web (PHP, HTML, CSS, JS)
-- 🧠 Experiencia en sistemas web y backend
-- 🛠️ Manejo de bases de datos MySQL (CRUD, consultas)
-- 🎯 Apasionado por seguir aprendiendo y mejorar cada día
+- 💻 Desarrollador de Software  
+- 🌐 Enfocado en desarrollo web (PHP, HTML, CSS, JS)  
+- 🧠 Experiencia en sistemas web y backend  
+- 🛠️ Manejo de bases de datos MySQL (CRUD, consultas)  
+- 🎯 Apasionado por seguir aprendiendo y mejorar cada día  
 
 <br>
 
@@ -39,7 +39,6 @@
 <h3 align="center">Sistema de Objetos Perdidos</h3>
 <div align="center">
 
-<!-- 🔥 DISEÑO PIRÁMIDE -->
 <img src="img/obj1.png" width="400">
 
 <br><br>
@@ -79,19 +78,43 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 </td>
 
 <td width="50%">
-<h3 align="center">Sistema de Inventario</h3>
+<h3 align="center">Sistema de Taller Automotriz</h3>
 <div align="center">
 
-<img src="img/inv1.png" width="250">
-<img src="img/inv2.png" width="250">
+<img src="img/taller1.png" width="400">
 
 <br><br>
 
+<table>
+<tr>
+<td><img src="img/taller2.png" width="180"></td>
+<td><img src="img/taller3.png" width="180"></td>
+</tr>
+</table>
+
+<br>
+
 <a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-0af?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<p>Sistema web con <strong>PHP y MySQL</strong> para control de stock y gestión de productos.</p>
+<p align="left">
+
+Sistema web desarrollado para la gestión de un taller automotriz.
+
+🔹 Funciones principales:<br>
+✔ Registro de clientes y vehículos<br>
+✔ Gestión de servicios y reparaciones<br>
+✔ Control de citas y órdenes de trabajo<br>
+✔ CRUD completo (crear, editar, eliminar)<br>
+✔ Interfaz intuitiva y responsive<br>
+
+<br>
+
+🛠️ Tecnologías:<br>
+PHP | HTML | Bootstrap | JavaScript | CSS
+
+</p>
 
 </div>
 </td>
@@ -101,47 +124,9 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 
 <br>
 
-<table>
-<tr>
+## 📦 Sistema de Inventario
 
-<td width="50%">
-<h3 align="center">Sistema de Vuelos</h3>
-<div align="center">
-
-<img src="img/vuelo1.png" width="250">
-<img src="img/vuelo2.png" width="250">
-
-<br><br>
-
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-<p>Plataforma web para registro de solicitudes conectada a base de datos en tiempo real.</p>
-
-</div>
-</td>
-
-<td width="50%">
-<h3 align="center">Web Corporativa</h3>
-<div align="center">
-
-<img src="img/web1.png" width="250">
-<img src="img/web2.png" width="250">
-
-<br><br>
-
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-
-<p>Diseño y desarrollo web con <strong>HTML, CSS y PHP</strong>.</p>
-
-</div>
-</td>
-
-</tr>
-</table>
+Sistema web con PHP y MySQL para control de stock y gestión de productos.
 
 <br>
 
