@@ -124,6 +124,50 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 
 <br>
 
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">Sistema de Vuelos</h3>
+<div align="center">
+
+<img src="img/vuelo1.png" width="250">
+<img src="img/vuelo2.png" width="250">
+
+<br><br>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+<p>Plataforma web para registro de solicitudes conectada a base de datos en tiempo real.</p>
+
+</div>
+</td>
+
+<td width="50%">
+<h3 align="center">Web Corporativa</h3>
+<div align="center">
+
+<img src="img/web1.png" width="250">
+<img src="img/web2.png" width="250">
+
+<br><br>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+<p>Diseño y desarrollo web con <strong>HTML, CSS y PHP</strong>.</p>
+
+</div>
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ## 📦 Sistema de Inventario
 
 Sistema web con PHP y MySQL para control de stock y gestión de productos.
