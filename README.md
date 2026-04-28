@@ -195,7 +195,7 @@ PHP | HTML | Bootstrap | JavaScript | MySQL</strong>.</p>
 ## 📞 Contacto
 
 - 📱 +51 926 957 431  
-- 📧 giomm67914@gmail.com  
+- 📧 giom67914@gmail.com  
 
 ---
 
