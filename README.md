@@ -81,14 +81,14 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 <h3 align="center">Sistema de Taller Automotriz</h3>
 <div align="center">
 
-<img src="img/taller1.png" width="400">
+<img src="img/taller.png" width="400">
 
 <br><br>
 
 <table>
 <tr>
-<td><img src="img/taller.png" width="180"></td>
 <td><img src="img/taller2.png" width="180"></td>
+<td><img src="img/taller3.png" width="180"></td>
 </tr>
 </table>
 
