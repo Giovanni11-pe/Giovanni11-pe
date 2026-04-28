@@ -156,14 +156,12 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<p>Sistema web de gestión desarrollado para optimizar la administración y control de información en entornos digitales, enfocado en eficiencia, usabilidad y escalabilidad.<br> 
-<strong>🔹
   Funciones principales:<br>
-✔ Gestión integral de registros con operaciones CRUD (crear, editar, eliminar)
-✔ Sistema de búsqueda avanzada por múltiples criterios
-✔ Interfaz moderna, intuitiva y responsive adaptada a cualquier dispositivo
-✔ Integración robusta con base de datos para almacenamiento seguro y eficiente
-✔ Estructura optimizada para un rendimiento ágil y confiable
+✔ Gestión integral de registros con operaciones CRUD (crear, editar, eliminar)<br>
+✔ Sistema de búsqueda avanzada por múltiples criterios <br>
+✔ Interfaz moderna, intuitiva y responsive adaptada a cualquier dispositivo <br>
+✔ Integración robusta con base de datos para almacenamiento seguro y eficiente <br>
+✔ Estructura optimizada para un rendimiento ágil y confiable <br>
 
 🛠️ Tecnologías:
 PHP | HTML | Bootstrap | JavaScript | MySQL</strong>.</p>
