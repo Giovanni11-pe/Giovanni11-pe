@@ -159,7 +159,8 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 </a>
 
 <p>Sistema web de gestión desarrollado para optimizar la administración y control de información en entornos digitales, enfocado en eficiencia, usabilidad y escalabilidad. 
-<strong>🔹 Funciones principales:
+<strong>🔹
+  Funciones principales:<br>
 ✔ Gestión integral de registros con operaciones CRUD (crear, editar, eliminar)
 ✔ Sistema de búsqueda avanzada por múltiples criterios
 ✔ Interfaz moderna, intuitiva y responsive adaptada a cualquier dispositivo
