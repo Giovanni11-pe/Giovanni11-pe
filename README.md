@@ -87,8 +87,8 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 
 <table>
 <tr>
+<td><img src="img/taller.png" width="180"></td>
 <td><img src="img/taller2.png" width="180"></td>
-<td><img src="img/taller3.png" width="180"></td>
 </tr>
 </table>
 
@@ -100,13 +100,12 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 
 <p align="left">
 
-Sistema web desarrollado para la gestión de un taller automotriz.
+Pagina web - taller automotriz.
 
 🔹 Funciones principales:<br>
 ✔ Registro de clientes y vehículos<br>
 ✔ Gestión de servicios y reparaciones<br>
 ✔ Control de citas y órdenes de trabajo<br>
-✔ CRUD completo (crear, editar, eliminar)<br>
 ✔ Interfaz intuitiva y responsive<br>
 
 <br>
@@ -146,11 +145,12 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 </td>
 
 <td width="50%">
-<h3 align="center">Web Corporativa</h3>
+<h3 align="center">Sistema de Gestion de Proyectos</h3>
 <div align="center">
 
-<img src="img/web1.png" width="250">
-<img src="img/web2.png" width="250">
+<img src="img/sistema.png" width="250">
+<img src="img/sistema3.png" width="250">
+<img src="img/sistema2.png" width="250">
 
 <br><br>
 
@@ -158,7 +158,17 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<p>Diseño y desarrollo web con <strong>HTML, CSS y PHP</strong>.</p>
+<p>Sistema web de gestión desarrollado para optimizar la administración y control de información en entornos digitales, enfocado en eficiencia, usabilidad y escalabilidad. 
+<strong>🔹 Funciones principales:
+✔ Gestión integral de registros con operaciones CRUD (crear, editar, eliminar)
+✔ Sistema de búsqueda avanzada por múltiples criterios
+✔ Interfaz moderna, intuitiva y responsive adaptada a cualquier dispositivo
+✔ Integración robusta con base de datos para almacenamiento seguro y eficiente
+✔ Estructura optimizada para un rendimiento ágil y confiable
+
+🛠️ Tecnologías:
+PHP | HTML | Bootstrap | JavaScript | MySQL</strong>.</p>
+
 
 </div>
 </td>
