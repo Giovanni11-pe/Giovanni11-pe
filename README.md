@@ -168,9 +168,6 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 
 <br>
 
-## 📦 Sistema de Inventario
-
-Sistema web con PHP y MySQL para control de stock y gestión de productos.
 
 <br>
 
