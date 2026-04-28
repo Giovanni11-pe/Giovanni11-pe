@@ -158,7 +158,7 @@ PHP | HTML | Bootstrap | JavaScript | CSS
 <img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
-<p>Sistema web de gestión desarrollado para optimizar la administración y control de información en entornos digitales, enfocado en eficiencia, usabilidad y escalabilidad. 
+<p>Sistema web de gestión desarrollado para optimizar la administración y control de información en entornos digitales, enfocado en eficiencia, usabilidad y escalabilidad.<br> 
 <strong>🔹
   Funciones principales:<br>
 ✔ Gestión integral de registros con operaciones CRUD (crear, editar, eliminar)
