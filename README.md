@@ -78,7 +78,7 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 </td>
 
 <td width="50%">
-<h3 align="center">Sistema de Taller Automotriz</h3>
+<h3 align="center">Pagina web - taller automotriz.</h3>
 <div align="center">
 
 <img src="img/taller.png" width="400">
@@ -99,8 +99,6 @@ PHP | HTML | Bootstrap | JavaScript | MySQL
 </a>
 
 <p align="left">
-
-Pagina web - taller automotriz.
 
 🔹 Funciones principales:<br>
 ✔ Registro de clientes y vehículos<br>
